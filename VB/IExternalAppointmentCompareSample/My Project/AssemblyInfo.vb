@@ -1,5 +1,4 @@
-Imports Microsoft.VisualBasic
-Imports System.Reflection
+﻿Imports System.Reflection
 Imports System.Runtime.CompilerServices
 Imports System.Runtime.InteropServices
 
@@ -11,7 +10,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyConfiguration("")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("IExternalAppointmentCompareSample")>
-<Assembly: AssemblyCopyright("Copyright �  2012")>
+<Assembly: AssemblyCopyright("Copyright ©  2012")>
 <Assembly: AssemblyTrademark("")>
 <Assembly: AssemblyCulture("")>
 
